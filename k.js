@@ -1,5 +1,5 @@
 module.exports = function K(x) {
-  return function () {
+  return function (x) {
     return x
   }
 }
