@@ -33,7 +33,7 @@ The module is also split into files, so you can use commonjs path syntax to only
 
 ## api
 
-descriptions adapted from the [wikipedia article](http://en.wikipedia.org/wiki/SKI_combinator_calculus):
+descriptions adapted from wikipedia:
 
 ### `I = function (x)`, the identify function
 
