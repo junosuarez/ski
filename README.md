@@ -52,7 +52,7 @@ K, when applied to any argument x, yields a one-argument constant function Kx , 
 
 S is a substitution operator. It takes three arguments and then returns the first argument applied to the third, which is then applied to the result of the second argument applied to the third. More clearly:
 
-    S(x, y, z) === x(z)((yz))
+    S(x, y, z) === x(z)(y(z))
 
 ## license
 [CC 0](http://creativecommons.org/publicdomain/zero/1.0/) (public domain)
